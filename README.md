@@ -94,3 +94,7 @@ A lot is missing:
   * Better logs when executing states/transition callbacks
   * Transition conditions (predicate) anyone?
   * etc
+
+## License
+
+MIT
